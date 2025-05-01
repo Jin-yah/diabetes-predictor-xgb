@@ -9,13 +9,14 @@
 ## Table of Contents
 
 1. [Project Overview](#project-overview)  
-2. [Features](#features)  
-3. [Installation](#installation)  
-4. [Usage](#usage)  
-5. [Notebook Walkthrough](#notebook-walkthrough)  
-6. [File Structure](#file-structure)  
-7. [Contributing](#contributing)  
-8. [License](#license)  
+2. [Dataset Information](#dataset-information)
+3. [Features](#features)  
+4. [Installation](#installation)  
+5. [Usage](#usage)  
+6. [Notebook Walkthrough](#notebook-walkthrough)  
+7. [File Structure](#file-structure)  
+8. [Contributing](#contributing)  
+9. [License](#license)  
 
 ---
 
@@ -28,6 +29,17 @@ This repository contains a complete end-to-end machine learning pipeline for pre
 - Handle class imbalance in this medical screening task  
 - Train, evaluate, and tune an XGBoost classifier  
 - Package results in a polished Jupyter notebook for reproducibility  
+
+---
+
+## Dataset Information
+
+This project uses the [Diabetes Prediction Dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset) available on Kaggle, provided by [Mustafa Tariq](https://www.kaggle.com/iammustafatz).
+
+**Dataset Description:**
+The dataset includes medical attributes such as age, BMI, blood glucose levels, HbA1c levels, and other patient information useful for predicting diabetes diagnoses.
+
+All rights and credit for the dataset belong to the original creator. The dataset is made available under the terms specified on its [Kaggle page](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset).
 
 ---
 
