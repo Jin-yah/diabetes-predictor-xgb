@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)  
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jin-yah/diabetes-predictor/main?filepath=diabetes-prediction.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jin-yah/diabetes-predictor-xgb/main?filepath=diabetes-prediction.ipynb)
 
 ---
 
@@ -60,8 +60,8 @@ This repository contains a complete end-to-end machine learning pipeline for pre
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jin-yah/diabetes-predictor.git
-   cd diabetes-predictor
+   git clone https://github.com/Jin-yah/diabetes-predictor-xgb.git
+   cd diabetes-predictor-xgb
    ```
 
 2. (Optional) Create and activate a virtual environment:
@@ -114,7 +114,7 @@ Each section contains clear markdown explanations, code cells, and inline visual
 ## File Structure
 
 ```
-diabetes-predictor/
+diabetes-predictor-xgb/
 ├── diabetes-prediction.ipynb   ← Main analysis notebook
 ├── requirements.txt            ← Python dependencies
 ├── LICENSE                     ← MIT license file
