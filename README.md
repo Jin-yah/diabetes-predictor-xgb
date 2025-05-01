@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)  
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/your-username/diabetes-predictor/master?filepath=diabetes-prediction.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jin-yah/diabetes-predictor/master?filepath=diabetes-prediction.ipynb)
 
 ---
 
@@ -132,8 +132,6 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes: `git commit -m 'Add some feature'`.  
 4. Push to the branch: `git push origin feature/YourFeature`.  
 5. Open a Pull Request describing your changes.
-
-Please ensure your code follows PEP8 conventions and includes appropriate tests or validations.
 
 ---
 
