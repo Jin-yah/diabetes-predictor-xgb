@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)  
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jin-yah/diabetes-predictor/master?filepath=diabetes-prediction.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jin-yah/diabetes-predictor/main?filepath=diabetes-prediction.ipynb)
 
 ---
 
