@@ -117,7 +117,7 @@ The Jupyter notebook is organized into the following sections:
 5. **Model Training**  
 6. **Model Evaluation**  
 7. **Hyperparameter Tuning**  
-8. **Conclusion & Recommendations**  
+8. **Conclusion**  
 
 Each section contains clear markdown explanations, code cells, and inline visualizations for a self-contained analysis.
 
@@ -127,10 +127,12 @@ Each section contains clear markdown explanations, code cells, and inline visual
 
 ```
 diabetes-predictor-xgb/
-├── diabetes-prediction.ipynb   ← Main analysis notebook
-├── requirements.txt            ← Python dependencies
-├── LICENSE                     ← MIT license file
-└── README.md                   ← Project overview and instructions
+├── data/
+│   └── diabetes_prediction_dataset.csv  ← Dataset used for training and analysis
+├── diabetes-prediction.ipynb            ← Main analysis notebook
+├── requirements.txt                     ← Python dependencies
+├── LICENSE                              ← MIT license file
+└── README.md                            ← Project overview and instructions
 ```
 
 ---
